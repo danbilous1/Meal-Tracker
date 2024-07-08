@@ -2,7 +2,7 @@ let apiKey = '9d5282fedb7a427cb2616d5bedee69f4'
 
 let columns = [
 
-]
+];
 
 
 let dishCache = JSON.parse(localStorage.getItem('dishes')) || {}
