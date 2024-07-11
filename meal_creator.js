@@ -13,7 +13,7 @@ let meal = {
 	// 	protein
 	// }
 }
-let meals = handleLocalStorage('meals_saved') || []
+let meals = handleLocalStorage('meals_saved') || [];
 
 const addDish = document.querySelector('#addDish');
 const saveDish = document.querySelector('#saveDish');
