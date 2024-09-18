@@ -11,7 +11,7 @@ By clicking on button "Calculate Dish", there will appear two inputs. Write Dish
 You can see Reports.
 
 ### Test it out:
-[Click Me](https://danbilous1.github.io/CSS-Grid-Calendar/)
+[Click Me](https://danbilous1.github.io/Meal-Tracker/)
 
 
 Warning. While using the project, might appear some errors, because API can be outdated.
