@@ -10,6 +10,8 @@ By clicking on button "Calculate Dish", there will appear two inputs. Write Dish
 ### Third Section "Reports". 
 You can see Reports.
 
+### Test it out:
+[Click Me](https://danbilous1.github.io/CSS-Grid-Calendar/)
 
 
 Warning. While using the project, might appear some errors, because API can be outdated.
