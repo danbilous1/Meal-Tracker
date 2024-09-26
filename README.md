@@ -14,4 +14,5 @@ You can see Reports.
 [Click Me](https://danbilous1.github.io/Meal-Tracker/)
 
 
-Warning. While using the project, might appear some errors, because API can be outdated.
+###### Warning
+While using the project, might appear some errors, because API can be outdated.
